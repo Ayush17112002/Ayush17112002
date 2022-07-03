@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ayush17112002
-- 👀 I’m interested in CP, web dev and learning everything related.
-- 🌱 I’m currently learning DSA in C++.
+- 👋 Hi, My name is Ayush Gupta.
+- 👀 I’m interested in CP,Web Dev,ML/AI/DL.
 - 📫 How to reach me? ping me at aayushgupta023@gmail.com
 
 <!---
